@@ -1,8 +1,9 @@
-# Little Lemon Restaurant Website
+# Sitio Web del Restaurante Little Lemon
 
-## Project Description
-This repo is for the Capstone Project for Meta's Coursera Front-End Development Certificate (course 8/9).
+## Descripción del Proyecto
 
-This project involves buidling a website with a booking/reserve a table application on the Little Lemon Website. This was created with React Components to show an understanding of utilizing React and using API calls for the website.
+Este repositorio es para el Proyecto Final del Certificado de Desarrollo Front-End de Meta en Coursera (curso 8/9). 
 
-Disclaimer: The only functionality for this website (besides following the UI/UX rules provided) is the "Reserve a Table" function.
+El objetivo principal es construir un sitio web funcional para el Restaurante Little Lemon, centrado en una aplicación de reserva de mesas. 
+
+El proyecto demuestra competencia en React, integración de API y cumplimiento de las pautas de UI/UX proporcionadas.
